@@ -1,0 +1,13 @@
+{
+  "Products":[
+    {
+      "ProductAdded":"Successfully Added Your New Product",
+      "ProductAddedError":"Error Occured During Product Adding Time",
+      "ProductUpdated":"Successfully Updated Your Product",
+      "ProductUpdatedError":"Error Occured during Product Updation",
+      "ProductNull":"Dont Have Any Products Now",
+      "ProductDeleted":"Successfully deleted your product",
+      "ProductDeltedError":"Error occured during Product Deletion",
+      "ProductDuplicateData":"Entered Data is Already exist"
+    }]
+}
